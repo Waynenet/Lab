@@ -3,4 +3,4 @@
 </p>
 
 
-- [WayneのLab](https://lab.dang.gq/)
+- [WayneのLab](https://lab.kong.pub/)
